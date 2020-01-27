@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Youtube Utilities",
+    "description": "Helps in various tasks",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        "<all_urls>"
+    ],
+    
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
